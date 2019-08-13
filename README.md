@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 MusicBinge is a fully-functional React App to create custom playlists with interactive search functionality, integrating Spotify REST API.
 
 Demo:
+
 ![](demo1.gif)
 ![](demo2.gif)
+![](demo3.gif)
+
 
