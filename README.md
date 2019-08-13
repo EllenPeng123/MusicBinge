@@ -5,7 +5,9 @@ MusicBinge is a fully-functional React App to create custom playlists with inter
 Demo:
 
 ![](demo1.gif)
+
 ![](demo2.gif)
+
 ![](demo3.gif)
 
 
