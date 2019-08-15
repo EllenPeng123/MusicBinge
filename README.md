@@ -12,7 +12,7 @@ Demo:
 
 Components Overview:
 - App: Main component to render child components.
-- Playlist: Updates name of playlist.
+- Playlist: Updates the name of custom laylist.
 - SearchBar: Searches songs.
 - SearchResults: Reflects search results of input.
 - Spotify: Integrates Spotify API to log in, search, and save.
