@@ -20,5 +20,5 @@ Components Overview:
 - SearchResults: Reflects search results of input.
 - Spotify: Integrates Spotify API to log in, search, and save custom Playlists.
 - TrackList: Allows each song in search results to be added and saved in Playlists.
-- Track: Adds or Removes Tracks from Playlists.
+- Track: Adds or Removes tracks from Playlists.
 
