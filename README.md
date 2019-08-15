@@ -11,6 +11,9 @@ Demo:
 ![](demo3.gif)
 
 Components Overview:
+
+![img](6.png)
+
 - App: Main component to render child components.
 - Playlist: Updates names of custom Playlists.
 - SearchBar: Searches songs.
